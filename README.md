@@ -83,7 +83,7 @@ tomato-disease-classification/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/tomato-disease-classification.git
+git clone https://github.com/milukhalidhasan/tomato-leaf-disease-classification.git
 cd tomato-disease-classification
 
 # Install dependencies
